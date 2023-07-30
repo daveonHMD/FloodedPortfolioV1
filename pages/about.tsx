@@ -61,11 +61,11 @@ const AboutPage = () => {
       <div className="container mx-auto px-8 py-12">
         <h1 className="text-3xl font-bold mb-4">About Me</h1>
         <p className="text-xl">
-          👋🏾 Hi there! I'm {username}, a backend developer who started coding as a newbie in 2020. I took a break from coding but got back to it after a few months. I used to explore game exploits, but I stopped because it became boring and made people upset.
+          👋🏾 Hi there! I&apos;m {username}, a backend developer who started coding as a newbie in 2020. I took a break from coding but got back to it after a few months. I used to explore game exploits, but I stopped because it became boring and made people upset.
           I enjoy working on projects, including Roblox games and websites.
         </p>
         <p className="text-gray-600">
-          While I'm not currently seeking employment as a developer, my dream is to be an actor.
+          While I&apos;m not currently seeking employment as a developer, my dream is to be an actor.
         </p>
       </div>
 

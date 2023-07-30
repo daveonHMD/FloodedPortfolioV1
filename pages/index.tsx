@@ -151,7 +151,7 @@ export default function Portfolio() {
             <LibraryCard title="React" javascript description='React = Components build apps. Dynamic UX.' imageUrl="/imgs/webbanner/react.logo-og.png" />
             <LibraryCard title="Express.js" javascript description='Fast, unopinionated, minimalist web framework for Node.js' imageUrl="/imgs/webbanner/express.logo-com.png" />
             <LibraryCard title="Flask" python description='Flask is a web application framework written in Python.' imageUrl="/imgs/webbanner/flask.logo-og.png" />
-            <LibraryCard title="Next.js" javascript description="Next.js Empowering World's Giants with Full-Stack Web Apps & Lightning-Fast Builds!" imageUrl="/imgs/webbanner/nextjs.logo-org.png" />
+            <LibraryCard title="Next.js" javascript description="Next.js Empowering World&apos;s Giants with Full-Stack Web Apps & Lightning-Fast Builds!" imageUrl="/imgs/webbanner/nextjs.logo-org.png" />
           </div>
         </div>
         <div className="mt-12">
