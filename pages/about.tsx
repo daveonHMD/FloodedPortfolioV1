@@ -32,14 +32,14 @@ const AboutPage = () => {
         description: 'Share Your Post with the World SociaFlux.',
         imageUrl: '/imgs/webbanner/socialflux.png',
         beta: true,
-        url: '/projects/socialflux',
+        url: 'https://socialflux.xyz',
       },
       {
         title: 'DiscordInflux',
         description: 'Find and add new friends on Discord the...',
         imageUrl: '/imgs/webbanner/discordinfluximg.png',
         disabled: true,
-        url: '/projects/discordinflux',
+        url: 'https://discordinflux.xyz',
       },
       {
         title: 'ThriveHub',
