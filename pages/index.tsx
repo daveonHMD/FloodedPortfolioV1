@@ -98,7 +98,7 @@ export default function Portfolio() {
       title: 'DiscordInflux',
       description: 'Find and add new friends on Discord the...',
       imageUrl: '/imgs/webbanner/discordinfluximg.png',
-      disabled: true,
+      beta: true,
       url: 'https://discordinflux.xyz',
     },
     {
