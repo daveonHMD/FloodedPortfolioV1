@@ -32,7 +32,7 @@ body {
 
 .dark:bg-background {
   background-color: #000000;
-  
+
 }
 
 body::-webkit-scrollbar {
@@ -52,6 +52,6 @@ body {
 }
 
 body {
-  -ms-overflow-style: none; 
-  scrollbar-width: none; 
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
