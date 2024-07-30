@@ -89,11 +89,11 @@ export default function Portfolio() {
 
     const projects = [
         {
-            title: "SocialFlux",
-            description: "Share Your Post with the World SociaFlux.",
-            imageUrl: "/imgs/webbanner/socialflux.png",
+            title: "Net Social",
+            description: "Connect, Share, Grow.",
+            imageUrl: "https://maya25-me.vercel.app/NetSocial.png",
             beta: true,
-            url: "https://socialflux.xyz",
+            url: "https://netsocial.app",
         },
         {
             title: "DiscordInflux",
